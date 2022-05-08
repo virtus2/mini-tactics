@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a467ab5bce5177c479feddc40a48ad3e, type: 3}
+  m_Name: "\uAC00\uAE4C\uC6B4 \uC720\uB2DB \uADFC\uC811 \uACF5\uACA9"
+  m_EditorClassIdentifier: 
+  targetPlayer: 1
+  closest: 1
+  lowHP: 0
+  highestLevel: 0
+  highestAttack: 0
+  changeTarget: 1
+  warriror: 0
+  witch: 0
+  meleeAttack: 1
+  rangeAttack: 0
+  magicAttack: 0
+  magicDebuff: 0
+  magicHeal: 0
+  magicBuff: 0
